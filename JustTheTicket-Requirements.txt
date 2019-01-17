@@ -4,4 +4,15 @@ Type:
 Rationale:
 Originator:
 Comments: [M814-ModuleChair] Copy this template below to add new requirements.
-
+REQ-ID:SA1
+Description:The product shall issue a refund for the ticket purchased
+Type:Functional Requirement
+Rationale:Customer needs to be reimbursed for tickets not being used
+Originator:Customer
+Comments: [Simon Anderson] Adding This functional requirement.
+REQ-ID:SA2
+Description:The product shall ask for the reason for return
+Type:Functional Requirement
+Rationale:Managers should be able to find out why they do not need the tickets anymore in case it is for a reason that can be fixed by them.
+Originator:Customer
+Comments: [Simon Anderson] Adding This functional requirement.
