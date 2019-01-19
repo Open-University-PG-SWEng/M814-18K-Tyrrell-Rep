@@ -16,3 +16,15 @@ Type:Functional Requirement
 Rationale:Managers should be able to find out why they do not need the tickets anymore in case it is for a reason that can be fixed by them.
 Originator:Customer
 Comments: [Simon Anderson] Adding This functional requirement.
+REQ-ID:JS1
+Description: The product shall make returned tickets available for re-allocation
+Type: Functional Requirement
+Rationale: To be able to reassign returned tickets to a new customer
+Originator: Polly
+Comments:
+REQ-ID:JS2
+Description: The product shall remove returned tickets from the customer’s account
+Type: Functional Requirement
+Rationale: To be able to show the customer the tickets they currently have allocated to them
+Originator: Polly
+Comments:
