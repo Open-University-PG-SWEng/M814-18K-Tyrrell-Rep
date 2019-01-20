@@ -1,4 +1,4 @@
-REQ-ID:
+﻿REQ-ID:
 Description:
 Type:
 Rationale:
@@ -28,3 +28,15 @@ Type: Functional Requirement
 Rationale: To be able to show the customer the tickets they currently have allocated to them
 Originator: Polly
 Comments:
+REQ-ID:MB1	
+Description:The product shall issue a confirmation email.
+Type:Functional Requirement
+Rationale: To provide customer with confirmation of ticket return.
+Originator:Customer
+Comments: [Matt Burger] Added functional requirement.
+REQ-ID:MB2
+Description:The product shall issue a confirmation return ticket reference.
+Type:Functional Requirement
+Rationale: If there is no payment refunded, customer refers to reference.
+Originator:Customer
+Comments: [Matt Burger] Added functional requirement.
