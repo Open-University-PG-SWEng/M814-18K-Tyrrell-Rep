@@ -52,3 +52,15 @@ Type: Functional Requirement
 Rationale: Returned tickets must be allocated fairly on the basis of first arrived first served on the top of the waiting list but also give the option to decide manually which customer to allocate ticket.
 Originator: Polly
 Comments: [Goneta Cisse] Added this functional requirement.
+REQ-ID: MS1
+Description:  Customers can request to return tickets they have purchased
+Type: Functional Requirement
+Rationale: Customers need to be provided the facility to return tickets they have purchased
+Originator: Thomas
+Comments: [Mark Shepherd] Added this functional requirement.
+REQ-ID: MS2
+Description: Returned tickets to be reallocated or made publicly available in intervals of 24 hours
+Type: Functional Requirement
+Rationale: Analysis needs to be performed daily on returned tickets to detect patterns and prevent fraud 
+Originator: Polly
+Comments: [Mark Shepherd] Added this functional requirement.
