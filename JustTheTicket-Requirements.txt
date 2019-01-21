@@ -40,3 +40,15 @@ Type:Functional Requirement
 Rationale: If there is no payment refunded, customer refers to reference.
 Originator:Customer
 Comments: [Matt Burger] Added functional requirement.
+REQ-ID: GC1
+Description: The product shall create a waiting list of customers for event when tickets sold out.
+Type: Functional Requirement
+Rationale: Customer who can not find a ticket for an event can decide to be added to a waiting list
+Originator: Thomas
+Comments: [Goneta Cisse] Added this functional requirement.
+REQ-ID: GC2
+Description: The product shall allocate returned tickets to customer on a waiting list.
+Type: Functional Requirement
+Rationale: Returned tickets must be allocated fairly on the basis of first arrived first served on the top of the waiting list but also give the option to decide manually which customer to allocate ticket.
+Originator: Polly
+Comments: [Goneta Cisse] Added this functional requirement.
