@@ -64,3 +64,15 @@ Type: Functional Requirement
 Rationale: Analysis needs to be performed daily on returned tickets to detect patterns and prevent fraud 
 Originator: Polly
 Comments: [Mark Shepherd] Added this functional requirement.
+REQ-ID: DW1
+Description: The product shall use confirmation dialog to restate customer’s intent to return ticket.
+Type: Functional Requirement
+Rationale: Give user a second chance and prevent user error.
+Originator: Customer
+Comments: [Daniel Wright] Added functional requirement.
+REQ-ID: DW2
+Description: The product shall update real-time ticket inventory with returned tickets.
+Type: Functional Requirement
+Rationale: Permits reallocation of tickets.
+Originator: Polly
+Comments: [Daniel Wright] Added functional requirement.
