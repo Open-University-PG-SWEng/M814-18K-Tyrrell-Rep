@@ -99,4 +99,14 @@ Rationale: 24 hours would give enough time for Thomas and Polly to analyze the p
 Originator: Polly Gray
 Comments: [Yasuhiro Ide] Added a functional requirement.
 REQ-ID: YJ1
-Description: TBD
+Description: Customers can return tickets 
+Type: Functional Requirement
+Rationale: Customers have the right to return tickets that are no longer required whatever their reasons might be
+Originator: Thomas
+Comments: [Young Jin, Won] Added this functional requirement.
+REQ-ID: YJ2
+Description: When tickets are returned for an event which is fully booked, the tickets should be immediately allocated to those at the top of the waiting list
+Type: Functional Requirement
+Rationale: This Requirement is a candidate, not yet fixed
+Originator: Chester
+Comments: [Young Jin, Won] Added this functional requirement.
