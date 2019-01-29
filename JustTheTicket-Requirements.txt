@@ -98,3 +98,5 @@ Type: Functional Requirement
 Rationale: 24 hours would give enough time for Thomas and Polly to analyze the patterns of ticket-return for protecting the Games from fraud, and to consider how it should be allocated.
 Originator: Polly Gray
 Comments: [Yasuhiro Ide] Added a functional requirement.
+REQ-ID: YJ1
+Description: TBD
