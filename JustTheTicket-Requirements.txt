@@ -86,3 +86,15 @@ Description: The product shall display the returned tickets grouped by the reaso
 Type: Functional Requirement
 Rationale: In order to conduct the planned daily review upon ticket returns a condensed overview is needed to detect patterns.
 Originator: Polly
+REQ-ID: YI1
+Description: Product shall receive information that tickets are returned with the reason.
+Type: Functional Requirement
+Rationale: The reason is mandatory in order to analyze the patterns of ticket-return for protecting the Games from fraud.
+Originator: Polly Gray
+Comments: [Yasuhiro Ide] Added a functional requirement.
+REQ-ID: YI2
+Description: Product shall make the tickets returned available to purchase for the customers who are in waiting list every 24 hours if anyone in the list.
+Type: Functional Requirement
+Rationale: 24 hours would give enough time for Thomas and Polly to analyze the patterns of ticket-return for protecting the Games from fraud, and to consider how it should be allocated.
+Originator: Polly Gray
+Comments: [Yasuhiro Ide] Added a functional requirement.
