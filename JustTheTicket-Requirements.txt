@@ -110,3 +110,15 @@ Type: Functional Requirement
 Rationale: This Requirement is a candidate, not yet fixed
 Originator: Chester
 Comments: [Young Jin, Won] Added this functional requirement.
+REQ-ID: AJ1
+Description: Returned tickets are put 'on hold' for revision before being re-assigned 
+Type: Functional Requirement
+Rationale: Thomas and Polly want to revise returns before re-assignment in order to identify suspicious patterns and/or frauds
+Originator: Polly
+Comments: [Adrian Joseph] Added this functional requirement.
+REQ-ID: AJ2
+Description: Customer returning should receive a confirmation of successful return (i.e. e-mail, reimburse, vouchers, etc.)
+Type: Functional Requirement
+Rationale: Thomas wants to encourage tickets to be returned to avoid the raise of a black market, and customer are likely to return tickets only if a clear message is delivered proving a successful return
+Originator: Thomas, Customer
+Comments: [Adrian Joseph] Added this functional requirement.
