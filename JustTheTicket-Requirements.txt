@@ -122,3 +122,15 @@ Type: Functional Requirement
 Rationale: Thomas wants to encourage tickets to be returned to avoid the raise of a black market, and customer are likely to return tickets only if a clear message is delivered proving a successful return
 Originator: Thomas, Customer
 Comments: [Adrian Joseph] Added this functional requirement.
+REQ-ID: SM1
+Type: Functional Requirement
+Description: The system shall allow ticket returns that are no longer required
+Rationale: Avoid reselling of tickets at inflated rats when tickets become unavailable allowing for fair reallocation of tickets.
+Originator: Thomas Shelby
+Comments: [Stuart Mathews] Added this functional requirement.
+REQ-ID: SM2
+Type: Functional Requirement
+Description: The system shall allow the selection and purchase of tickets through the website
+Rationale: The new ticketing system is to be an online ticketing system available any time and from anywhere on the internet.
+Originator: Case Study/original system requirements
+Comments: [Stuart Mathews] Added this functional requirement.
