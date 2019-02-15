@@ -5,7 +5,7 @@ Rationale:
 Originator:
 Comments: [M814-ModuleChair] Copy this template below to add new requirements.
 REQ-ID:SA1
-Description:The product shall issue a refund for the ticket purchased
+Description:The product shall issue a refund (i.e. cash back, voucher, in-store credit etc) for the ticket purchased
 Type:Functional Requirement
 Rationale:Customer needs to be reimbursed for tickets not being used
 Originator:Customer
@@ -16,12 +16,6 @@ Type:Functional Requirement
 Rationale:Managers should be able to find out why they do not need the tickets anymore in case it is for a reason that can be fixed by them.
 Originator:Customer
 Comments: [Simon Anderson] Adding This functional requirement.
-REQ-ID:JS1
-Description: The product shall make returned tickets available for re-allocation
-Type: Functional Requirement
-Rationale: To be able to reassign returned tickets to a new customer
-Originator: Polly
-Comments:
 REQ-ID:JS2
 Description: The product shall remove returned tickets from the customer’s account
 Type: Functional Requirement
@@ -29,7 +23,7 @@ Rationale: To be able to show the customer the tickets they currently have alloc
 Originator: Polly
 Comments:
 REQ-ID:MB1	
-Description:The product shall issue a confirmation email.
+Description:The product shall issue a return confirmation.
 Type:Functional Requirement
 Rationale: To provide customer with confirmation of ticket return.
 Originator:Customer
@@ -59,7 +53,7 @@ Rationale: Customers need to be provided the facility to return tickets they hav
 Originator: Thomas
 Comments: [Mark Shepherd] Added this functional requirement.
 REQ-ID: MS2
-Description: Returned tickets to be reallocated or made publicly available in intervals of 24 hours
+Description: Returned tickets to be reallocated or made publicly available when returns are reviewd
 Type: Functional Requirement
 Rationale: Analysis needs to be performed daily on returned tickets to detect patterns and prevent fraud 
 Originator: Polly
@@ -69,12 +63,6 @@ Description: The product shall use confirmation dialog to restate customer’s i
 Type: Functional Requirement
 Rationale: Give user a second chance and prevent user error.
 Originator: Customer
-Comments: [Daniel Wright] Added functional requirement.
-REQ-ID: DW2
-Description: The product shall update real-time ticket inventory with returned tickets.
-Type: Functional Requirement
-Rationale: Permits reallocation of tickets.
-Originator: Polly
 Comments: [Daniel Wright] Added functional requirement.
 REQ-ID: PS1
 Description: The product shall take into account the number of returned tickets and the number of requested tickets by customers on the waiting list during reallocation.
@@ -86,39 +74,9 @@ Description: The product shall display the returned tickets grouped by the reaso
 Type: Functional Requirement
 Rationale: In order to conduct the planned daily review upon ticket returns a condensed overview is needed to detect patterns.
 Originator: Polly
-REQ-ID: YI1
-Description: Product shall receive information that tickets are returned with the reason.
-Type: Functional Requirement
-Rationale: The reason is mandatory in order to analyze the patterns of ticket-return for protecting the Games from fraud.
-Originator: Polly Gray
-Comments: [Yasuhiro Ide] Added a functional requirement.
-REQ-ID: YI2
-Description: Product shall make the tickets returned available to purchase for the customers who are in waiting list every 24 hours if anyone in the list.
-Type: Functional Requirement
-Rationale: 24 hours would give enough time for Thomas and Polly to analyze the patterns of ticket-return for protecting the Games from fraud, and to consider how it should be allocated.
-Originator: Polly Gray
-Comments: [Yasuhiro Ide] Added a functional requirement.
-REQ-ID: YJ1
-Description: Customers can return tickets 
-Type: Functional Requirement
-Rationale: Customers have the right to return tickets that are no longer required whatever their reasons might be
-Originator: Thomas
-Comments: [Young Jin, Won] Added this functional requirement.
-REQ-ID: YJ2
-Description: When tickets are returned for an event which is fully booked, the tickets should be immediately allocated to those at the top of the waiting list
-Type: Functional Requirement
-Rationale: This Requirement is a candidate, not yet fixed
-Originator: Chester
-Comments: [Young Jin, Won] Added this functional requirement.
 REQ-ID: AJ1
 Description: Returned tickets are put 'on hold' for revision before being re-assigned 
 Type: Functional Requirement
 Rationale: Thomas and Polly want to revise returns before re-assignment in order to identify suspicious patterns and/or frauds
 Originator: Polly
-Comments: [Adrian Joseph] Added this functional requirement.
-REQ-ID: AJ2
-Description: Customer returning should receive a confirmation of successful return (i.e. e-mail, reimburse, vouchers, etc.)
-Type: Functional Requirement
-Rationale: Thomas wants to encourage tickets to be returned to avoid the raise of a black market, and customer are likely to return tickets only if a clear message is delivered proving a successful return
-Originator: Thomas, Customer
 Comments: [Adrian Joseph] Added this functional requirement.
