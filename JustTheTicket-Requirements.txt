@@ -68,6 +68,13 @@ Rationale: Customers need to be provided the facility to return tickets they hav
 Originator: Thomas
 Comments: [Mark Shepherd] Added this functional requirement.
 
+REQ-ID: MS2
+Description: The product shall allow all returned tickets to be reallocated or made publicly available after a review is performed
+Type: Functional Requirement
+Rationale: Analysis needs to be performed daily on returned tickets to detect patterns and prevent fraud 
+Originator: Polly
+Comments: [Mark Shepherd] Added this functional requirement.
+
 REQ-ID: DW1
 Description: The product shall use confirmation dialog to restate customer’s intent to return ticket.
 Type: Functional Requirement
@@ -101,13 +108,6 @@ Type: Functional Requirement
 Rationale: This Requirement is a candidate, not yet fixed
 Originator: Chester
 Comments: [Young Jin, Won] Added this functional requirement.
-
-REQ-ID: AJ1
-Description: Returned tickets are put 'on hold' for revision before being re-assigned 
-Type: Functional Requirement
-Rationale: Thomas and Polly want to revise returns before re-assignment in order to identify suspicious patterns and/or frauds
-Originator: Polly
-Comments: [Adrian Joseph] Added this functional requirement.
 
 REQ-ID: SM2
 Type: Functional Requirement
