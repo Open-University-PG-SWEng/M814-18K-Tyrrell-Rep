@@ -1,4 +1,4 @@
-﻿REQ-ID:
+﻿EQ-ID:
 Description:
 Type:
 Rationale:
