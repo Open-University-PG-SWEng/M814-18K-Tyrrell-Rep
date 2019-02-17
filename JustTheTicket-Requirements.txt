@@ -80,3 +80,13 @@ Type: Functional Requirement
 Rationale: This Requirement is a candidate, not yet fixed
 Originator: Chester
 Comments: [Young Jin, Won] Added this functional requirement.
+REQ-ID: KimHannibal-FR01
+Description: Ticket reallocation program to be run once a day so that any seats that may have become available will be allocated to the real-time ticket list
+Type: Functional requirement
+Rationale: To ensure that available tickets are allocated to those on the waiting list in a manageable and consistent matter
+Originator: Ticket sales (Polly Grey)
+REQ-ID: KimHannibal-FR02
+Description: Ability to reserve a given amount of affordable tickets available only to less well-off people
+Type: Functional requirement
+Rationale: Avoiding any impression that the well-off have received favourable treatment
+Originator: Business Development (Thomas Shelby)
