@@ -1,4 +1,4 @@
-﻿REQ-ID:
+REQ-ID:
 Description:
 Type:
 Rationale:
@@ -134,3 +134,15 @@ Description: The system shall allow the selection and purchase of tickets throug
 Rationale: The new ticketing system is to be an online ticketing system available any time and from anywhere on the internet.
 Originator: Case Study/original system requirements
 Comments: [Stuart Mathews] Added this functional requirement.
+REQ-ID: MD1
+Type: Functional Requirement
+Description: The product will accept the reason for customer returning tickets
+Rationale: To aid in the assessment of ticket return patterns that may indicate fraud.
+Originator: Polly Grey
+Comments: [Malcolm Dunn] Added this functional requirement.
+REQ-ID: MD2
+Type: Functional Requirement
+Description: The product shall calculate the credit value based on the price originally paid and the number of tickets to be returned.
+Rationale: The partial return of original ticket orders may be requested by the customer, and prices may have changed.
+Originator: Thomas Shelby
+Comments: [Malcolm Dunn] Added this functional requirement.
