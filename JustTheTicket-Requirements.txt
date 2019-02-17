@@ -1,4 +1,4 @@
-REQ-ID:
+﻿REQ-ID:
 Description:
 Type:
 Rationale:
@@ -53,13 +53,13 @@ Rationale: Returned tickets must be allocated fairly on the basis of first arriv
 Originator: Polly
 Comments: [Goneta Cisse] Added this functional requirement.
 REQ-ID: MS1
-Description:  Customers can request to return tickets they have purchased
+Description: The product shall allow it so that customers can request to return tickets they have purchased
 Type: Functional Requirement
 Rationale: Customers need to be provided the facility to return tickets they have purchased
 Originator: Thomas
 Comments: [Mark Shepherd] Added this functional requirement.
 REQ-ID: MS2
-Description: Returned tickets to be reallocated or made publicly available in intervals of 24 hours
+Description: The product shall allow all returned tickets to be reallocated or made publicly available after a review is performed
 Type: Functional Requirement
 Rationale: Analysis needs to be performed daily on returned tickets to detect patterns and prevent fraud 
 Originator: Polly
