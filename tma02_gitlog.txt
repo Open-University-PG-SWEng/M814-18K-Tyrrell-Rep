@@ -1,0 +1,8 @@
+$ git push origin yasuhiro_ide
+Total 0 (delta 0), reused 0 (delta 0)
+remote:
+remote: Create a pull request for 'yasuhiro_ide' on GitHub by visiting:
+remote:      https://github.com/Open-University-PG-SWEng/M814-18K-Tyrrell-Rep/pull/new/yasuhiro_ide
+remote:
+To https://github.com/Open-University-PG-SWEng/M814-18K-Tyrrell-Rep.git
+ * [new branch]      yasuhiro_ide -> yasuhiro_ide

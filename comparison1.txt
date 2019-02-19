@@ -1,0 +1,23 @@
+Unique requirements
+ SA1
+ SA2
+ JS1
+ JS2
+ MB1
+ MB2
+ GC1
+ MS1
+ DW1
+ DW2
+ PS1
+ PS2
+ YJ1
+
+Duplicate requirements
+ GC2: Overlapping with JS1. I keep JS1 as the case study does not mention that it would be allocated for customer on a waiting list.
+ MS2: Overlapping with JS1/GC2. I keep JS1 as it focuses on what product shall do.
+ YI1: Overlapping with SA2. I keep SA2 as it simply describes what product shall do with a single verb.
+ YI2: Overlapping with JS1/GC2/MS2. I keep JS1 as it focuses on what product shall do with a single verb.
+ YJ2: Overlapping with JS1/GC2/MS2/YI2. I keep JS1 as it focuses on what product shall do with a single verb.
+ AJ1:Overlapping with JS1/GC2/MS2/YI2/YJ2. I keep JS1. Because the case study does not mention the specific allocation method described by AJ1.
+ AJ2: Overlapping with MB2. I keep MB2 as it simply describes what product shall do with a single verb.
