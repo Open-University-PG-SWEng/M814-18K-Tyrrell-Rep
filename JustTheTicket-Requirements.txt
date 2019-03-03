@@ -168,3 +168,13 @@ Description: Ability to reserve a given amount of affordable tickets available o
 Type: Functional requirement
 Rationale: Avoiding any impression that the well-off have received favourable treatment
 Originator: Business Development (Thomas Shelby)
+REQ-ID: DK-FR01
+Description: JustTheTicket should allow organizers to reserve tickets that are not for sale to the public
+Type: Functional requirement
+Rationale: Officials, sponsors, as well as friends and families of the athletes should have preferential sits allocated to them.
+Originator: Thomas, Responsible for Business Development at the Commonwealth Games
+REQ-ID: DK-FR02
+Description: JustTheTicket should allow customers to return tickets
+Rationale: Customers should have the flexibility to return tickets for whatever reason. This allows potential customers and those on the waiting list to purchase tickets.
+Type: Functional requirement
+Originator: Thomas, Responsible for Business Development at the Commonwealth Games
