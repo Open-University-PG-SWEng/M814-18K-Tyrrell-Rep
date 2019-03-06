@@ -4,4 +4,4 @@ Type: Legal
 Rationale: Fair allocation of tickets is important to protect the Games from fraud.
 Fit Criterion: The product shall make the three information (the number of tickets returned, the persons who get tickets reallocated, and the reasons of reallocation)  visible for external auditors.
 Originator: Polly Gray
-Comments: [Yasuhiro Ide] Newly added my NFR.
+Comments: [Yasuhiro Ide] I newly added my NFR.
