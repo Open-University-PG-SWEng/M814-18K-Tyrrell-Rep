@@ -1,7 +1,7 @@
 REQ-ID: YI
-Description: The product shall shall reallocate returned tickets fairly.
+Description: The product shall reallocate returned tickets fairly.
 Type: Legal
-Rationale:
-Fit Criterion:
-Originator:
-Comments: [Yasuhiro Ide] Added my NFR
+Rationale: Fair allocation of tickets is important to protect the Games from fraud.
+Fit Criterion: The product shall make the three information (the number of tickets returned, the persons who get tickets reallocated, and the reasons of reallocation)  visible for external auditors.
+Originator: Polly Gray
+Comments: [Yasuhiro Ide] Newly added my NFR.
