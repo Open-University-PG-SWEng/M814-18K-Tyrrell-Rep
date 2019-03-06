@@ -1,0 +1,7 @@
+REQ-ID: YI
+Description: The product shall shall reallocate returned tickets fairly.
+Type: Legal
+Rationale:
+Fit Criterion:
+Originator:
+Comments: [Yasuhiro Ide] Added my NFR
