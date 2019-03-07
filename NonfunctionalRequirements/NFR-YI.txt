@@ -5,3 +5,4 @@ Rationale: Fair allocation of tickets is important to protect the Games from fra
 Fit Criterion: The product shall make the three information (the number of tickets returned, the persons who get tickets reallocated, and the reasons of reallocation)  visible for external auditors.
 Originator: Polly Gray
 Comments: [Yasuhiro Ide] I newly added my NFR.
+Comments: [SA] i agree with the rationale however not sure it is for fraud reasons as this is more of an equality reason, after all the tickets are being purchased for visitors who can not influence the outcome of the event
