@@ -1,0 +1,7 @@
+REQ-ID:SA
+Description:System should maintain a high level of confidentiality
+Type: Security
+Rationale:Due to processing sensitive information the system should be secure
+Fit Criterion:Sensitive information should not visible to the public
+Originator:Simon Anderson
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
