@@ -1,0 +1,7 @@
+REQ-ID:MD2-NFR1
+Description:The returned credit value must equal the amount originally spent
+Type:Non-Functional (Type 12)
+Rationale: Crediting incorrect values will generate severe customer dissatisfaction with associated remedial workload
+Fit Criterion:The value credited for returned tickets should exactly match the price the customer paid for those specific tickets
+Originator:MD
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
