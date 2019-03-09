@@ -5,3 +5,4 @@ Rationale: Crediting incorrect values will generate severe customer dissatisfact
 Fit Criterion:The value credited for returned tickets should exactly match the price the customer paid for those specific tickets
 Originator:MD
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+Comments: [SA] Is this not a functional requirement defining what a function must do? however i do see that the overal goal is based on the user experience, perhaps the description should be more generic about the customer should not be in a worse position than they started out with or words to that effect, but keep your Rationale and Fit Criterion
