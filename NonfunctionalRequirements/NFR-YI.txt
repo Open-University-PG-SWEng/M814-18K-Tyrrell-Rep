@@ -6,3 +6,4 @@ Fit Criterion: The product shall make the three information (the number of ticke
 Originator: Polly Gray
 Comments: [Yasuhiro Ide] I newly added my NFR.
 Comments: [SA] i agree with the rationale however not sure it is for fraud reasons as this is more of an equality reason, after all the tickets are being purchased for visitors who can not influence the outcome of the event
+[MS] this sounds more like a functional requirement, to display the information in an easily understandable layout to allow for quick review etc. would be the NFR of this description
