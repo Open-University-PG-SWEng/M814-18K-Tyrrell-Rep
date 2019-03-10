@@ -1,0 +1,8 @@
+REQ-ID: MS1-NFR1
+Description: Majority of users must be capable of submitting a ticket(s) return request with general ease.
+Type: 11 - Usability
+Rationale: Due to large number of users the returns process needs to be simplistic enough to avoid help being required in returning a ticket to reduce support volumes.
+Fit Criterion: 95% of all users must be able to locate, input tickets they wish to request to return and submit a return request within 3 minutes.
+Originator: : Mark Shepherd
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+[MS] the ability to input tickets is purposefully vague to avoid placing constraints, it may be decided to use ticket codes, or selection of owned tickets. This is a separate usability NFR
