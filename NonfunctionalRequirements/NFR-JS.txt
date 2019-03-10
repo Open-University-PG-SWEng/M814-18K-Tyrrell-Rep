@@ -1,0 +1,7 @@
+REQ-ID:JS2- NFR1
+Description:The product shall only allow authorised users to view which tickets are assigned to a customer
+Type:15
+Rationale: There is a security access requirement to limit access to view ticket assignment to authorised users 
+Fit Criterion:Only the customer and the customer service team should be able to view the tickets assigned to a specific customer
+Originator: Polly
+Comments: 
