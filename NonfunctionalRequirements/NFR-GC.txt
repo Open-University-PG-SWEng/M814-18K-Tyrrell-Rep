@@ -6,5 +6,5 @@ Rationale: Customers don’t want to spend a lot of time entering data before be
 Fit Criterion: Customers in their first attempt must take no longer than 5 seconds to add themselves on the waiting list using no more than 2 actions (Click to add on waiting list and confirm to be added). 
 Originator: Polly and Thomas
 Comments: Customer is already in the system due to registration process before doing anything on the system therefore when ticket sold out instead of the “buy a ticket” button a clickable “Add me on waiting list” button will be displayed for adding customer just by a simple click.
-
+Comments: [JS] I think the requirement should either be quick or easy rather than both as this can be split into two requirements. As being easy could be classed as being performed in two actions, but if each action were to take 10 minutes to complete would it be classed as quick. 
 
