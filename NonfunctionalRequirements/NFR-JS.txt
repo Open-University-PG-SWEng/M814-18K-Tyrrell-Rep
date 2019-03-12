@@ -5,3 +5,4 @@ Rationale: There is a security access requirement to limit access to view ticket
 Fit Criterion:Only the customer and the customer service team should be able to view the tickets assigned to a specific customer
 Originator: Polly
 Comments: [SA] i agree with this requirement, i perhaps would have extended the requirement to mention that it should adhere to any relevant laws and legislations relating to data protection.
+[SM] I think the customer service team along with the members of the ticket reallocation program should be allowed access
