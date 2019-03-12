@@ -1,0 +1,7 @@
+REQ-ID: GC2_NFR1
+Description: Only authorised members can manually reallocate tickets from the waiting list
+Type: Security
+Rationale: People with access to the system and who are not part of the reallocation program should not be able to access the waiting list of reallocate tickets from it. 
+Fit Criterion: Unauthorised members of the system should not be allowed to view or act on the ticket reallocation waiting list. Only authorised members can view and allocate tickets within the system.
+Originator: Stuart Mathews
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
