@@ -1,0 +1,9 @@
+REQ-ID: NFR_AJ1
+Description: The system shall handle high volume of returned tickets
+Type: 12c, 12f
+Rationale: The system will be available for tickets sales and returns worldwide and it the Commonwealth Games are expected to attract large number of customers.
+Fit Criterion: System will correctly put on hold 99% of 1000 simultaneously simulated returned tickets.
+Originator: Polly
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+[AJ] Assumption there is some sort of database, flag or other to disciminate betwewen IDs of tickets for sale, sold and returned
+Also assuming that each ticket has an ID.
