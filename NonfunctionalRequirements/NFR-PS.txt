@@ -1,4 +1,4 @@
-REQ-ID:NRF-PS
+REQ-ID:NFR-PS
 Description: The ticket return reason overview provided for the review highlights important information.
 Type: Usability
 Rationale: The ticket review shall be conducted daily for a potential large number of ticket returns at once. If the information is not visually well prepared this review will take longer than desired. 
