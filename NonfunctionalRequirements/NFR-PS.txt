@@ -6,3 +6,4 @@ Fit Criterion: The top five reasons for returns and current trends (more than +/
 Originator: Polly
 Comments: 
 [PS] This NFR is related to the requirement PS2 'The product shall display the returned tickets grouped by the reason of return.'
+[YI] I agree with this requirement. But it should be better if you say 'easy to read' instead of 'highlights' on description. Because the phrase 'easy to read' describes the purpose of this requirement more clearly.
