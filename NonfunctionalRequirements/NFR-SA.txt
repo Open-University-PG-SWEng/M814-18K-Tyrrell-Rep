@@ -7,4 +7,4 @@ Originator:Simon Anderson
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 [MS] - No information is provided by what is sensitive and to whom it is sensitive to. The logged in users information may be sensitive but they are part of the public so would not be able to view their own details. Perhaps clarify that sensitive data not available to them.
 [PS] I agree that this requirement is too vague. I suggest focussing on e.g. personal information of the customer, that is only visible to him. Support can only access after it has been authenticated and authorized and even then, some parts like e.g. creditcard numbers are not fully visible.  
-[YI] Fit Criteria should be more specific and measurable so that you can verify it. It should be better to put more specific words such as 'two-factor authentication' on the fit criteria.
+[YI] Fit Criteria should be more specific and measurable so that you can verify whether the solution meets it. It should be better to put more specific words such as 'two-factor authentication' on it.
