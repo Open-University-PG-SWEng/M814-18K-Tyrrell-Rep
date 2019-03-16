@@ -1,10 +1,10 @@
 REQ-ID: YI
-Description: The product shall reallocate returned tickets fairly.
-Type: Legal
-Rationale: Fair allocation of tickets is important to protect the Games from fraud.
-Fit Criterion: The product shall make the three information (the number of tickets returned, the persons who get tickets reallocated, and the reasons of reallocation)  visible for external auditors.
+Description: The product shall allow external auditors to check the fairness of reallocation effectively.
+Type: Usability
+Rationale: Quick assessment of fair allocation is important as the volume of returned tickets should be high.
+Fit Criterion: The product shall make the minimum required three information visible for external auditors. The three information is the number of tickets returned, the persons who get tickets reallocated, and the reasons of reallocation.
 Originator: Polly Gray
-Comments: [Yasuhiro Ide] I newly added my NFR.
+Comments: [Yasuhiro Ide] I updated Description to make it more non-functional. In addition, Type, Rationale, Fit Criterion were updated following the change of Description.
 Comments: [SA] i agree with the rationale however not sure it is for fraud reasons as this is more of an equality reason, after all the tickets are being purchased for visitors who can not influence the outcome of the event
 [MS] this sounds more like a functional requirement, to display the information in an easily understandable layout to allow for quick review etc. would be the NFR of this description
 [MS] to clarify by 'review' I mean for the external auditors to be able to assess the level of fairness so that auditors can complete the legal requirement of assessing fairness
