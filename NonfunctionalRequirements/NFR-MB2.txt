@@ -6,3 +6,4 @@ Rationale: To protect the customer's banking details from being stolen.
 Fit Criterion: Must adhere to current encrytion standards and protocols
 Originator: Matthew Burger
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+[AJ] Good one. I Since in this specific version of the requirements card there is no date or any other extra info, I would be more specific on what ‘current’ is by either adding a date or, even better, a reference to such standards.

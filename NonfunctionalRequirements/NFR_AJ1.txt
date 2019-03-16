@@ -2,7 +2,7 @@ REQ-ID: NFR_AJ1
 Description: The system shall handle high volume of returned tickets
 Type: 12c, 12f
 Rationale: The system will be available for tickets sales and returns worldwide and it the Commonwealth Games are expected to attract large number of customers.
-Fit Criterion: System will correctly put on hold 99% of 1000 simultaneously simulated returned tickets.
+Fit Criterion: The system will allow at minimum 1000 users concurrently ordering tickets with 100% success.
 Originator: Polly
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 [AJ] Assumption there is some sort of database, flag or other to disciminate betwewen IDs of tickets for sale, sold and returned
@@ -11,3 +11,4 @@ Also assuming that each ticket has an ID.
      The stating of 'simulated' is very much testing orientated, the non-functional requirements are meant to be a base for testing, not a test.
 	 Additionally, due to high volumes, once a user has triggered a return process this should be 100% successful for the minimum volume of 1000 concurrent users.
 [MB] Will there need to be a separate 'returned tickets holding' database to allow for returned tickets to be checked against the waiting list. I originally thought there would be a unique identifier for returned and new tickets, but that would cause confusion.
+[AJ]Fit criterion modified according to MS suggestion
