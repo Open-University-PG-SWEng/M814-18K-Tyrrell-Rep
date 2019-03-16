@@ -6,3 +6,4 @@ Fit Criterion:Only the customer and the customer service team should be able to 
 Originator: Polly
 Comments: [SA] i agree with this requirement, i perhaps would have extended the requirement to mention that it should adhere to any relevant laws and legislations relating to data protection.
 [SM] I think the customer service team along with the members of the ticket reallocation program should be allowed access
+[MB] This may be an additonal requirement related to this one, but how would the customer service team ensure the customer is the correct person. Are there other security checks involved?
