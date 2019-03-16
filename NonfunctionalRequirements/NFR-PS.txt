@@ -7,3 +7,4 @@ Originator: Polly
 Comments: 
 [PS] This NFR is related to the requirement PS2 'The product shall display the returned tickets grouped by the reason of return.'
 [YI] This fit criteria is excellent as it is measurable with some specific figures such as five reasons, and +/- 10%. It should be helpful to verify whether the solution meets the requirement.
+[MD] The fit criterion makes an assumption about what indicates an 'important' return reason, provides a solution, and requires calculation across historical data. Suggest fit criteria should be simplified to 'Return reason data should be presented in an easy to read format by return reason, in descending order of return reason volume'. 
