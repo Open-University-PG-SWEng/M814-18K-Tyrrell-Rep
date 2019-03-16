@@ -10,3 +10,4 @@ Also assuming that each ticket has an ID.
 [MS] good non-functional requirement, though terminology and grammar could be improved. Perhaps better wording of 'the system will allow at minimum 1000 users concurrently ordering tickets with 100% success' 
      The stating of 'simulated' is very much testing orientated, the non-functional requirements are meant to be a base for testing, not a test.
 	 Additionally, due to high volumes, once a user has triggered a return process this should be 100% successful for the minimum volume of 1000 concurrent users.
+[MB] Will there need to be a separate 'returned tickets holding' database to allow for returned tickets to be checked against the waiting list. I originally thought there would be a unique identifier for returned and new tickets, but that would cause confusion.
