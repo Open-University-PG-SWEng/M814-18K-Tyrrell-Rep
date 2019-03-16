@@ -1,0 +1,8 @@
+REQ-ID: NFR-MB2
+Description: Returned ticket transactions associated with the ticket reference shall use an encrypted (SSL) internet connection
+ 
+Type: 15b Security-Integrity
+Rationale: To protect the customer's banking details from being stolen.
+Fit Criterion: Must adhere to current encrytion standards and protocols
+Originator: Matthew Burger
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
