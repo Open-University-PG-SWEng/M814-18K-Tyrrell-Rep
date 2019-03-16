@@ -1,4 +1,4 @@
- REQ-ID:SA
+REQ-ID:SA
 Description:System should maintain a high level of confidentiality
 Type: Security
 Rationale:Due to processing sensitive information the system should be secure
@@ -8,3 +8,13 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [MS] - No information is provided by what is sensitive and to whom it is sensitive to. The logged in users information may be sensitive but they are part of the public so would not be able to view their own details. Perhaps clarify that sensitive data not available to them.
 [PS] I agree that this requirement is too vague. I suggest focussing on e.g. personal information of the customer, that is only visible to him. Support can only access after it has been authenticated and authorized and even then, some parts like e.g. creditcard numbers are not fully visible.  
 [YI] Fit Criteria should be more specific and measurable so that you can verify whether the solution meets it. It should be better to put more specific words such as 'two-factor authentication' on it.
+
+Thank you all for your comments, i have changed my NFR to the below one based on it
+
+Updated NFR
+REQ-ID:SA
+Description:System should maintain a high level of confidentiality with regards to the data that is stored and processed.
+Type: Security
+Rationale:Due to processing sensitive information such as payment information and people’s names and addresses the system should be secure
+Fit Criterion:Sensitive information should not visible to the public and only be visible to the logged in user and authorised people using the system, sensitive data should also not be human readable in the data store
+Originator:Simon Anderson
