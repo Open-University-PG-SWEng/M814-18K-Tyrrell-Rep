@@ -5,4 +5,3 @@ Rationale: People with access to the system and who are not part of the realloca
 Fit Criterion: Unauthorised members of the system should not be allowed to view or act on the ticket reallocation waiting list. Only authorised members can view and allocate tickets within the system.
 Originator: Stuart Mathews
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
-[YI] It should be better to put the reason why the requirement is necessary into Rationale. For example, you can describe that it is required by 'data protection act 2018' on Rationale.
