@@ -8,3 +8,4 @@ Comments: [Yasuhiro Ide] I updated Description to make it more non-functional. I
 Comments: [SA] i agree with the rationale however not sure it is for fraud reasons as this is more of an equality reason, after all the tickets are being purchased for visitors who can not influence the outcome of the event
 [MS] this sounds more like a functional requirement, to display the information in an easily understandable layout to allow for quick review etc. would be the NFR of this description
 [MS] to clarify by 'review' I mean for the external auditors to be able to assess the level of fairness so that auditors can complete the legal requirement of assessing fairness
+# [KH] The fit-criterion doesn't say anything about how to measure the fairness. I should be specific on fairness criterion based on statistical evidence.
