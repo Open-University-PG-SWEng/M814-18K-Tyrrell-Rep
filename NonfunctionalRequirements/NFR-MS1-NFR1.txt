@@ -1,0 +1,12 @@
+REQ-ID: MS1-NFR1
+Description: Majority of users must be capable of submitting a ticket(s) return request with general ease.
+Type: 11 - Usability
+Rationale: Due to large number of users the returns process needs to be simplistic enough to avoid help being required in returning a ticket to reduce support volumes.
+Fit Criterion: It should take no more than 3 minutes for 95% of customers to locate the return ticket functionality, input the desired tickets to return and submit for a refund.
+Originator: Mark Shepherd
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+[MS] the ability to input tickets is purposefully vague to avoid placing constraints, it may be decided to use ticket codes, or selection of owned tickets. This is a separate usability NFR
+[YI] This fit criteria is excellent. The purposed vagueness should be helpful to create more flexible solution to meet the requirement
+[MD] Agree with intent of fit criterion. I would suggest a re-wording for clarity "It should take no more than 3 minutes for 95% of customers to locate their ticket purchases and specify the tickets they wish to submit for a refund.
+[MS] Thank you for comments updating accordingly, though have clarified that the submitting of request is included in the fit criterion as this may not have appeared obvious previously
+[MS] The changes made were to clarify that there are 3 stages in this workflow, finding the functionality, using the functionality and submitting the request within a 3 minute period

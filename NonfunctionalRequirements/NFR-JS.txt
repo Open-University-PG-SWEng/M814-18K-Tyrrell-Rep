@@ -1,0 +1,9 @@
+REQ-ID:JS2- NFR1
+Description:The product shall only allow authorised users to view which tickets are assigned to a customer
+Type:15
+Rationale: There is a security access requirement to limit access to view ticket assignment to authorised users 
+Fit Criterion:Only the customer, the customer service team and the ticket reallocation team should be able to view the tickets assigned to a specific customer
+Originator: Polly
+Comments: [SA] i agree with this requirement, i perhaps would have extended the requirement to mention that it should adhere to any relevant laws and legislations relating to data protection.
+[SM] I think the customer service team along with the members of the ticket reallocation program should be allowed access
+[MB] This may be an additonal requirement related to this one, but how would the customer service team ensure the customer is the correct person. Are there other security checks involved?
