@@ -1,0 +1,7 @@
+REQ-ID: NFR-JM1
+Description: Real-time inventory must be able to handle containing a high capacity of tickets
+Type: 12 (Performance requirement)
+Rationale: All active tickets must be tracked for this high sales volume business to function
+Fit Criterion: Real-time inventory will be able to contain 10,000 active tickets
+Originator: Daniel Wright - DW2
+Comments: [Joseph Magnall] Added this non-functional requirement.
