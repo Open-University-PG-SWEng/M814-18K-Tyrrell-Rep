@@ -5,4 +5,4 @@ Rationale: All active tickets must be tracked for this high sales volume busines
 Fit Criterion: Real-time inventory will be able to contain 10,000 active tickets
 Originator: Daniel Wright - DW2
 Comments: [Joseph Magnall] Added this non-functional requirement.
-[PS] In general a goog NFR but you need to be more specific. Even a text file could serve the database for 10k tickets if you do not specify timings. You should mention something like 'In 95% of the cases the real-time inventory is able to locate 5 tickets out of 1.000.000 tickets for 500 users in parallel in 200 ms. The reminder will not take longer than 2 seconds' 
+[PS] In general, a good NFR but you need to be more specific. Even a text file could serve as the database for 10k tickets if you do not specify timings. You should mention something like 'In 95% of the cases the real-time inventory is able to locate 5 tickets out of 1.000.000 for 500 users in parallel in 200 ms and no longer than 2 seconds for the remainder' 
