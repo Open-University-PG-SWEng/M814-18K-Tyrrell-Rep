@@ -1,0 +1,7 @@
+REQ-ID: NFR_DW1
+Description: The product shall look and feel authoritative and authentic. 
+Type: 10 (Usability)
+Rationale: User will trust the product and use it with confidence.
+Fit Criterion: Product branding and third-party trusted image always visible to user.
+Originator: Daniel Wright
+Comments: 
