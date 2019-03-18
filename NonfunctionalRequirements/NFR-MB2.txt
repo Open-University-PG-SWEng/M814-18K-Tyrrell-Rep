@@ -8,3 +8,4 @@ Originator: Matthew Burger
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 [AJ] Good one. I Since in this specific version of the requirements card there is no date or any other extra info, I would be more specific on what ‘current’ is by either adding a date or, even better, a reference to such standards.
 [MB] Good point AJ, it is too vague. Would 'latest available' work here instead. That way it catches all of the latest standards or protocols. If i put a date that can become obsolete.
+[JM] I agree with AJ and MB this criteria needs to be more specific. Encryption standards vary vastly over time, maybe change the statement to 'industry standard' instead to indicate updates and attempts to keep in-line with competitors.

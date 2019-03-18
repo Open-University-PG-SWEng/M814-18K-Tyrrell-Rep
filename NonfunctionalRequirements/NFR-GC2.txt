@@ -6,3 +6,4 @@ Fit Criterion: Unauthorised members of the system are not allowed to view or act
 Originator: Stuart Mathews
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 [MB] Allows for authorised members of the project development team to check tickets before allocating to the waiting list. The non-functional requirement is good due to privacy regulations, limits the chances of fraud occuring and minimises the risks of issues occuring by limiting access to key individuals.
+[JM] Overall solid statement, but second sentence of criterion could be rolled into the first as it's mostly repeating the same point which could cause confusion.

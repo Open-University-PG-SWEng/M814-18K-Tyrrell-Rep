@@ -1,4 +1,4 @@
-REQ-ID: [GC] 
+﻿REQ-ID: [GC] 
 Description: System should make it as quick and easy as possible for customers to add themselves at first time on the waiting list.
 Type: Usability requirement
 
@@ -23,3 +23,4 @@ Type: Usability requirement
 Rationale: Customers don’t want to spend a lot of time entering data before being added on the waiting list because they want to be the first to buy the ticket when tickets become available.
 Fit Criterion: Customers in their first attempt must take no longer than 10 seconds to add themselves on the waiting list using no more than 3 actions e.g (Click to add on waiting list, select number of ticket and confirm to be added). 
 Originator: Polly and Thomas
+Comments: [JM] Whilst I like solidity of the time limit in the criterion, the action limit may be an issue when taking in possible additions to the waiting list system. May be best to separate these into two separate NFR’s.
