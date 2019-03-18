@@ -8,3 +8,18 @@ Originator: Polly and Thomas
 Comments: Customer is already in the system due to registration process before doing anything on the system therefore when ticket sold out instead of the “buy a ticket” button a clickable “Add me on waiting list” button will be displayed for adding customer just by a simple click.
 Comments: [JS] I think the requirement should either be quick or easy rather than both as this can be split into two requirements. As being easy could be classed as being performed in two actions, but if each action were to take 10 minutes to complete would it be classed as quick. 
 [SM] They might required steps to specify the amount of tickets they would like to buy, which might include an additional step.
+
+Thank you JS and SM for your comments, i have changed my NFR to the below one based on it. 
+I maintain the "Quick and Easy" as I considere that:
+ "quick" referes to the time it will take to the customer to go throught the steps to add himself on the waiting list, 
+ "Easy" referes to the user experience going through the differentsteps, will they understand easily the steps and execute its easily without been lost in the process. 
+Concerning the number of ticket they want that a very good point that I have to take into account  during the process of adding customer on waiting list. Thus 10 seconds or less to do all the steps should be a good duration to evaluate the fit criterion.
+Updated NFR
+
+REQ-ID: [GC] 
+Description: System should make it as quick and easy as possible for customers to add themselves at first time on the waiting list.
+Type: Usability requirement
+
+Rationale: Customers don’t want to spend a lot of time entering data before being added on the waiting list because they want to be the first to buy the ticket when tickets become available.
+Fit Criterion: Customers in their first attempt must take no longer than 10 seconds to add themselves on the waiting list using no more than 3 actions e.g (Click to add on waiting list, select number of ticket and confirm to be added). 
+Originator: Polly and Thomas

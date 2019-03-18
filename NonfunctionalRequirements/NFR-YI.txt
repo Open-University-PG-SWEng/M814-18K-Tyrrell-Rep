@@ -9,3 +9,4 @@ Comments: [SA] i agree with the rationale however not sure it is for fraud reaso
 [MS] this sounds more like a functional requirement, to display the information in an easily understandable layout to allow for quick review etc. would be the NFR of this description
 [MS] to clarify by 'review' I mean for the external auditors to be able to assess the level of fairness so that auditors can complete the legal requirement of assessing fairness
 # [KH] The fit-criterion doesn't say anything about how to measure the fairness. I should be specific on fairness criterion based on statistical evidence.
+[GC] I agree with [SA] as "fairly reallocation" refer to giving the change to everyone to purchase a returned ticket, regarding the fit criterion I suggest that the position on the waiting list of the persons who get tickets reallocated should be visible for external auditors as evidence of fairness
