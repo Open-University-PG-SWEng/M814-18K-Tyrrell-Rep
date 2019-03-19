@@ -5,3 +5,11 @@ Rationale: It only possible to establish that a person is less well-of if this s
 Fit Criterion: It shall be possible to access the tickets reserved for those less well-off only with a login from one of the authorised non-profit organisations
 Originator: KimHannibal-FR02 from Business Development (Thomas Shelby)
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
+# Revised NFR
+REQ-ID: KH-NFR01
+Description: The product shall assure that access to sale of discounted tickets is granted only to resellers authorised by Charity Governance Board
+Type: Non-functional security requirement
+Rationale: It only possible to establish that a person is less well-of if this screening is taken care of by non-profit organisations with established relations to those potential persons
+Fit Criterion: It shall be possible to access the tickets reserved for the 10 % less well-off defined by government criterion only with a login from one of the non-profit organisations authorised by Charity Governance Board
+Originator: Business Development (Thomas Shelby)
