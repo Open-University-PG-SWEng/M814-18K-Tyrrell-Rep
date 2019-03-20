@@ -1,7 +1,9 @@
 REQ-ID: NFR_DW1
 Description: The product shall look and feel authoritative and authentic. 
 Type: 10 (Usability)
-Rationale: User will trust the product and use it with confidence.
-Fit Criterion: Product branding and third-party trusted image always visible to user.
+Rationale: User will trust the product and perform all product functions confident in their execution.
+Fit Criterion: Product branding and third-party trusted image always displayed on current webpage.
 Originator: Daniel Wright
 Comments: 
+[DW] How, specifically, would a user use the product with confidence?
+[DW] Is the fit criterion "always visible to user" compatible with a requirement to operate on mobile devices?
