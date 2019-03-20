@@ -1,0 +1,7 @@
+REQ-ID: NFR-YJ2
+Description: In the process of REQ-ID: YJ2, re-allocating to waiting list shall be fast. 
+Type: Speed and latency requirements
+Rationale: In the case of the latency of re-allocating, users will not trust the system. 
+Fit Criterion: Re-allocating to waiting list shall be in one second. 
+Originator: YJ Won
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
